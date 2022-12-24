@@ -1,10 +1,3 @@
-@NaheemahBello
-NaheemahBello fixing errors
-Latest commit e2fa604 on Sep 14
- History
- 1 contributor
-Executable File  59 lines (49 sloc)  1.73 KB
-
 #!/usr/bin/python3
 # 6-square.py
 """Define a class Square."""

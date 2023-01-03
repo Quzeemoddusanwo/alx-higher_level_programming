@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 0-rectangle.py
-# Naheemah Bello
+# Quzeem Odusanwo
 """Defines a Rectangle class."""
 
 
